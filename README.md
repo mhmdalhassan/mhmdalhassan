@@ -53,9 +53,6 @@ Role-based POS with inventory, suppliers, sales, reporting, and financial dashbo
 ### **MH Code Academy Platform (Laravel)**
 Educational platform featuring courses, feedback & rating, contact system, and an admin dashboard.
 
-### **E-Commerce Shop UI (React)**
-Responsive and user-friendly UI with product filtering, cart system, and clean customer experience.
-
 ---
 
 ## 📊 GitHub Overview
