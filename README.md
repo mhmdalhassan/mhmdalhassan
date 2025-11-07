@@ -23,18 +23,24 @@ I focus on writing clean, maintainable code and building systems that solve prac
 
 ## 🔧 Tech Stack
 
+### Frontend
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind&theme=light" /><br/>
-  
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel&theme=light" /><br/>
-  
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light" /><br/>
-  
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
+</p>
+
+### Backend & APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+</p>
+
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,figma" />
 </p>
 
 ---
