@@ -13,9 +13,8 @@
 
 ## 👨‍💻 About Me
 
-Full-Stack Web Developer with hands-on experience in modern web technologies, scalable backend development, and clean UI/UX practices.
-
-Currently completing a **Full-Stack Web Development Program at The Digital Hub (Beirut)**, building real-world applications using the **MERN** stack and **Laravel** framework.
+ Full-Stack Web Developer with a Communication Engineering background and hands-on experience developing full-stack websites.
+Currently completing a **Full-Stack Web Development Program at The Digital Hub (Beirut)**, building real-world websites using the **MERN** stack and **Laravel** framework.
 
 I focus on writing clean, maintainable code and building systems that solve practical business problems.
 
@@ -24,7 +23,7 @@ I focus on writing clean, maintainable code and building systems that solve prac
 ## 🔧 Tech Stack
 
 **Frontend:**  
-`HTML` `CSS` `JavaScript` `React` `Vite` `Tailwind CSS`  
+`HTML` `CSS` `JavaScript` `React` `Tailwind CSS`  
 
 **Backend & APIs:**  
 `Node.js` `Express.js` `PHP` `Laravel`  
@@ -49,8 +48,6 @@ Role-based POS with inventory, suppliers, sales, reporting, and financial dashbo
 ### **MH Code Academy Platform (Laravel)**
 Educational platform featuring courses, feedback & rating, contact system, and an admin dashboard.
 
-### **E-Commerce Shop UI (React)**
-Responsive and user-friendly UI with product filtering, cart system, and clean customer experience.
 
 ---
 
